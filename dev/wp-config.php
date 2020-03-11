@@ -26,7 +26,7 @@ define( 'DB_NAME', 'kairos_web' );
 define( 'DB_USER', 'kairos' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '7Z-,GKvKW(&QfS;7D_)sQ.],(pE7h}');
+define( 'DB_PASSWORD', '');
 
 /** MySQL hostname */
 define( 'DB_HOST', '127.0.0.1' );
@@ -46,14 +46,7 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '7-x#Q#LFZ?v[wRv*aC[693IrDnl||k6S?=-L7P++VvNcgI_/|}xdwzQ5W7!zMI3_');
-define('SECURE_AUTH_KEY',  'OF|&E^Gu`$W8uEmlpfKay|Fa_>:f85GjqR?<d<{]C+tqv=x#EUlZW5~2v-DW!}T9');
-define('LOGGED_IN_KEY',    'QTZ[<~4(hrDQ`2{)U{`/8}.jZ-KN}cP<k.n1Uz DaMh1}ZFqS[,Q6#yo6vHJQ$+O');
-define('NONCE_KEY',        'Mn,{=VT-$uIbP)x+1pdyMqLy&P}$$W#1Dh@^(Ih:;g6fDws9V|&|rM{zj)Ykv*Hz');
-define('AUTH_SALT',        'n7WOP N4[u{M3<y)v{GCC+1@H}s.z)]a;fGI[tRyx 2YyU$|cfN^(i!Qz/ $dKa6');
-define('SECURE_AUTH_SALT', 'UqUmgj%sM/#{Zl9!p> 6f(|GlN;9E0-etT9n)^K7$}ar|1`E/SbHU8hQK|YF#PK-');
-define('LOGGED_IN_SALT',   '3XnXO3:fwc %5(T)7DYt3^N *:B--fafL+{$1C-!s5L&Y1=i<K;5JFB-+CCxm8G^');
-define('NONCE_SALT',       'ix|EN;fSQ%4>=zcF]5`)mT,<f80:w@)|{ljYrq,-T-l.pjxt?-%:m;9|]71lmQn[');
+//  salt here
 
 /**#@-*/
 
