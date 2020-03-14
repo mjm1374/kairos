@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: THW Team\n"
+"POT-Creation-Date: 2015-09-22 16:01+0600\n"
+"PO-Revision-Date: 2015-09-22 16:01+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: thw_team.php:27
+msgctxt "Teams"
+msgid "Teams"
+msgstr ""
+
+#: thw_team.php:28
+msgctxt "Team"
+msgid "Team"
+msgstr ""
+
+#: thw_team.php:29
+msgid "Teams"
+msgstr ""
+
+#: thw_team.php:30
+msgid "Parent Team:"
+msgstr ""
+
+#: thw_team.php:31
+msgid "All Team"
+msgstr ""
+
+#: thw_team.php:32
+msgid "View Team"
+msgstr ""
+
+#: thw_team.php:33
+msgid "Add New Team"
+msgstr ""
+
+#: thw_team.php:34
+msgid "New Team"
+msgstr ""
+
+#: thw_team.php:35
+msgid "Edit Team"
+msgstr ""
+
+#: thw_team.php:36
+msgid "Update Team"
+msgstr ""
+
+#: thw_team.php:37
+msgid "Search Team"
+msgstr ""
+
+#: thw_team.php:38
+msgid "No article found"
+msgstr ""
+
+#: thw_team.php:39
+msgid "No article found in Trash"
+msgstr ""
+
+#: thw_team.php:71
+#, php-format
+msgid "Team updated. <a href=\"%s\">View Team</a>"
+msgstr ""
+
+#: thw_team.php:72
+msgid "Custom field updated."
+msgstr ""
+
+#: thw_team.php:73
+msgid "Custom field deleted."
+msgstr ""
+
+#: thw_team.php:74
+msgid "Team updated."
+msgstr ""
+
+#: thw_team.php:75
+#, php-format
+msgid "Team restored to revision from %s"
+msgstr ""
+
+#: thw_team.php:76
+#, php-format
+msgid "Team published. <a href=\"%s\">View Team</a>"
+msgstr ""
+
+#: thw_team.php:77
+msgid "Team saved."
+msgstr ""
+
+#: thw_team.php:78
+#, php-format
+msgid "Team submitted. <a target=\"_blank\" href=\"%s\">Preview Team</a>"
+msgstr ""
+
+#: thw_team.php:79
+#, php-format
+msgid ""
+"Team scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Team</a>"
+msgstr ""
+
+#: thw_team.php:79
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: thw_team.php:80
+#, php-format
+msgid "Team draft updated. <a target=\"_blank\" href=\"%s\">Preview Team</a>"
+msgstr ""
+
+#: thw_team.php:240
+msgid "Team Carousel"
+msgstr ""
+
+#: thw_team.php:242
+msgid "Themewing"
+msgstr ""
+
+#: thw_team.php:247
+msgid "Count Number of Post"
+msgstr ""
+
+#: thw_team.php:254
+msgid "Select Columns"
+msgstr ""
+
+#: thw_team.php:261
+msgid "autoPlay"
+msgstr ""
+
+#: thw_team.php:268
+msgid "Pagination"
+msgstr ""
+
+#: thw_team.php:275
+msgid "Mouse Drag Move Effect"
+msgstr ""
+
+#: thw_team.php:282
+msgid "Navigation Enable"
+msgstr ""
+
+#: thw_team.php:289
+msgid "Add Custom Class"
+msgstr ""

@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: THW Industrial\n"
+"POT-Creation-Date: 2015-09-22 15:55+0600\n"
+"PO-Revision-Date: 2015-09-22 15:55+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: thw_inustrial.php:26
+msgctxt "Industrials"
+msgid "Industrials"
+msgstr ""
+
+#: thw_inustrial.php:27
+msgctxt "Industrial"
+msgid "Industrial"
+msgstr ""
+
+#: thw_inustrial.php:28
+msgid "Industrials"
+msgstr ""
+
+#: thw_inustrial.php:29
+msgid "Parent Industrial:"
+msgstr ""
+
+#: thw_inustrial.php:30
+msgid "All Industrial"
+msgstr ""
+
+#: thw_inustrial.php:31
+msgid "View Industrial"
+msgstr ""
+
+#: thw_inustrial.php:32
+msgid "Add New Industrial"
+msgstr ""
+
+#: thw_inustrial.php:33
+msgid "New Industrial"
+msgstr ""
+
+#: thw_inustrial.php:34
+msgid "Edit Industrial"
+msgstr ""
+
+#: thw_inustrial.php:35
+msgid "Update Industrial"
+msgstr ""
+
+#: thw_inustrial.php:36
+msgid "Search Industrial"
+msgstr ""
+
+#: thw_inustrial.php:37
+msgid "No article found"
+msgstr ""
+
+#: thw_inustrial.php:38
+msgid "No article found in Trash"
+msgstr ""
+
+#: thw_inustrial.php:70
+#, php-format
+msgid "Industrial updated. <a href=\"%s\">View Industrial</a>"
+msgstr ""
+
+#: thw_inustrial.php:71
+msgid "Custom field updated."
+msgstr ""
+
+#: thw_inustrial.php:72
+msgid "Custom field deleted."
+msgstr ""
+
+#: thw_inustrial.php:73
+msgid "Industrial updated."
+msgstr ""
+
+#: thw_inustrial.php:74
+#, php-format
+msgid "Industrial restored to revision from %s"
+msgstr ""
+
+#: thw_inustrial.php:75
+#, php-format
+msgid "Industrial published. <a href=\"%s\">View Industrial</a>"
+msgstr ""
+
+#: thw_inustrial.php:76
+msgid "Industrial saved."
+msgstr ""
+
+#: thw_inustrial.php:77
+#, php-format
+msgid ""
+"Industrial submitted. <a target=\"_blank\" href=\"%s\">Preview Industrial</a>"
+msgstr ""
+
+#: thw_inustrial.php:78
+#, php-format
+msgid ""
+"Industrial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Industrial</a>"
+msgstr ""
+
+#: thw_inustrial.php:78
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: thw_inustrial.php:79
+#, php-format
+msgid ""
+"Industrial draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Industrial</a>"
+msgstr ""
+
+#: thw_inustrial.php:93
+msgctxt "Categories"
+msgid "Categories"
+msgstr ""
+
+#: thw_inustrial.php:94
+msgctxt "Categories"
+msgid "Category"
+msgstr ""
+
+#: thw_inustrial.php:95
+msgid "Search Category"
+msgstr ""
+
+#: thw_inustrial.php:96
+msgid "All Category"
+msgstr ""
+
+#: thw_inustrial.php:97
+msgid "Parent Category"
+msgstr ""
+
+#: thw_inustrial.php:98
+msgid "Parent Category:"
+msgstr ""
+
+#: thw_inustrial.php:99
+msgid "Edit Category"
+msgstr ""
+
+#: thw_inustrial.php:100
+msgid "Update Category"
+msgstr ""
+
+#: thw_inustrial.php:101
+msgid "Add New Category"
+msgstr ""
+
+#: thw_inustrial.php:102
+msgid "New Category Name"
+msgstr ""
+
+#: thw_inustrial.php:103
+msgid "Category"
+msgstr ""
+
+#: thw_inustrial.php:168
+msgid "All"
+msgstr ""
+
+#: thw_inustrial.php:277
+msgid "Learn More"
+msgstr ""
+
+#: thw_inustrial.php:312
+msgid "Industrial Area"
+msgstr ""
+
+#: thw_inustrial.php:314
+msgid "Themewing"
+msgstr ""
+
+#: thw_inustrial.php:319
+msgid "Layout"
+msgstr ""
+
+#: thw_inustrial.php:326
+msgid "Count Number"
+msgstr ""
+
+#: thw_inustrial.php:333
+msgid "Select Columns"
+msgstr ""
+
+#: thw_inustrial.php:340
+msgid "Display Filter"
+msgstr ""
+
+#: thw_inustrial.php:347
+msgid "Add Custom Class"
+msgstr ""
